@@ -9,12 +9,18 @@ a:hover {
 #myDiv {
     color: black;
     clear: both;
-    width: 300px;
+    width: 500px;
     padding: 30px;
     margin: 20px;
 }
 
 .profile-image {
-    float: right;
+    float: left;
     margin-left: 50px;
+}
+
+h1 {
+    font-size: 36px;
+    color: black;
+    text-align: left;
 }
