@@ -6,7 +6,7 @@ a:hover {
     color: aqua
 }
 
-div {
+#myDiv {
     width: 300px;
     padding: 30px;
     margin: 20px;
